@@ -1,5 +1,5 @@
 # Urban-revenue-prediction-XGBoost
-This repository contains my submission for the **2025 DSMLC Final Competition**, hosted by the **Data Science & Machine Learning Club** at the University of Calgary, in partnership with **Urban Systems**, an engineering firm based in Calgary, Alberta.
+This repository contains my submission for the 2025 DSMLC Final Competition, hosted by the Data Science & Machine Learning Club at the University of Calgary, in partnership with **Urban Systems**, an engineering firm based in Calgary, Alberta.
 
 ---
 ## Objective
